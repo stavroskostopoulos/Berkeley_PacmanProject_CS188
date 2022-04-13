@@ -6,7 +6,7 @@ The Pac-Man projects were developed for CS 188. They apply an array of AI techni
 https://inst.eecs.berkeley.edu/~cs188/sp19/project1.html
 
 
-### Project 3
+### Project 2
 https://inst.eecs.berkeley.edu/~cs188/sp20/project2/
 
 
