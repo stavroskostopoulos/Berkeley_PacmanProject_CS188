@@ -12,4 +12,5 @@ https://inst.eecs.berkeley.edu/~cs188/sp20/project2/
 
 
 <br>
+
 ![Screenshot](pacmanGIF.gif)
